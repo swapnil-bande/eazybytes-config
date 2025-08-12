@@ -1,0 +1,10 @@
+# Default configuration for Loans Service
+build:
+  version: "3.0.0"
+
+loans:
+  message: "Hello from Loans Service and Default Config Profile"
+  contactDetails:
+    name: "swapnil bande - default"
+    email: "nil@gmail.com"
+  onCallSupport: "+1234567890"

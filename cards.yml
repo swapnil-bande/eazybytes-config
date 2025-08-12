@@ -1,0 +1,10 @@
+# Use this file to define the default configuration for the Cards service.
+build:
+  version: "3.0.0"
+
+cards:
+  message: "Hello from Cards Service and Default Config Profile"
+  contactDetails:
+    name: "swapnil bande - software Engineer"
+    email: "nil@gmail.com"
+  onCallSupport: "+1234567890"

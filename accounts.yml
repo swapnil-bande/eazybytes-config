@@ -1,0 +1,10 @@
+# This is the default configuration for the Accounts Service
+build:
+  version: "3.0.0"
+
+accounts:
+  message: "Hello from Accounts Service and Default Config Profile"
+  contactDetails:
+    name: "swapnil bande - Software Engineer"
+    email: "nil@gmail.com"
+  onCallSupport: "+1234567890"

@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0.0"
+
+loans:
+  message: "Hello from Loans Service and QA Config Profile"
+  contactDetails:
+    name: "rahul dhadge -QA Engineer"
+    email: "rahul@gmail.com"
+  onCallSupport:
+      -"+1234567890"
+      - "+0987654321"
