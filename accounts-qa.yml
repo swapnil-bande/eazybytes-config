@@ -6,8 +6,9 @@ accounts:
   message: "Hello from Accounts Service and QA Config Profile"
   contactDetails:
     name: "rahul dhadge - QA Engineer"
-    email: "364e010635d4c1b58ec48a27bd8696cfe6169a6f825bc45889748763bb05c0dc"
+    email: "{cipher}364e010635d4c1b58ec48a27bd8696cfe6169a6f825bc45889748763bb05c0dc"
   onCallSupport:
       -"+1234567890"
       - "+0987654321"
+
 
