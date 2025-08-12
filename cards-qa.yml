@@ -5,9 +5,10 @@ build:
 cards:
   message: "Hello from Cards Service and QA Config Profile"
   contactDetails:
-    name: "Rahul Dhadge -QA Engineer"
+    name: "Rahul Dhadge - QA Engineer"
     email: "rahul@gmail.com"
   onCallSupport:
       -"+1234567890"
       - "+0987654321"
+
 
