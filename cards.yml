@@ -5,6 +5,6 @@ build:
 cards:
   message: "Hello from Cards Service and Default Config Profile"
   contactDetails:
-    name: "swapnil bande - software Engineer"
+    name: "Swapnil Bande - software Engineer"
     email: "nil@gmail.com"
   onCallSupport: "+1234567890"
