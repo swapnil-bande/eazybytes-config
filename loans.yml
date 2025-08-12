@@ -5,6 +5,7 @@ build:
 loans:
   message: "Hello from Loans Service and Default Config Profile"
   contactDetails:
-    name: "swapnil bande - default"
+    name: "Swapnil Bande - Software Engineer"
     email: "nil@gmail.com"
   onCallSupport: "+1234567890"
+
