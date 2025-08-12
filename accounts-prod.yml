@@ -3,12 +3,13 @@ build:
   version: "1.0.0"
 
 accounts:
-  message: "Hello from Accounts Service and Production Config Profile"
+  message: "Hello from Accounts Service and Prod Config Profile"
   contactDetails:
     name: "Sumit Rajguru - Product Owner"
     email: "sumit@gmail.com"
   onCallSupport:
     -"+1234567890"
     - "+0987654321"
+
 
 
