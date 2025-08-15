@@ -1,14 +1,14 @@
 # Server configuration
-    server:
-        port: 8070 # The port on which the Eureka server will run.
-    
-    # Eureka server configuration
-    eureka:
-      instance:
-        prefer-ip-address: true # Indicates that the Eureka server should use the IP address instead of the hostname.
-        hostname: eurekaserver # The hostname of the Eureka server instance.
-      client: 
-        register-with-eureka: false # Disables the registration of the Eureka server with itself.
-        fetch-registry: false # Disables fetching of the registry from other Eureka servers.
-        service-url:
-          defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/ # The default URL for Eureka clients to register with this server.
+server:
+    port: 8070 # The port on which the Eureka server will run.
+
+# Eureka server configuration
+eureka:
+  instance:
+    prefer-ip-address: true # Indicates that the Eureka server should use the IP address instead of the hostname.
+    hostname: eurekaserver # The hostname of the Eureka server instance.
+  client: 
+    register-with-eureka: false # Disables the registration of the Eureka server with itself.
+    fetch-registry: false # Disables fetching of the registry from other Eureka servers.
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/ # The default URL for Eureka clients to register with this server.
